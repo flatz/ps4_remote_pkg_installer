@@ -6,7 +6,7 @@ CXX = $(WINE) orbis-clang++
 LD = $(WINE) orbis-ld
 OBJCOPY = $(WINE) orbis-objcopy
 PUBCMD = $(WINE) orbis-pub-cmd
-MAKE_FSELF = ./make_fself
+MAKE_FSELF = make_fself.py
 
 OBJDIR = obj
 BLDDIR = build
