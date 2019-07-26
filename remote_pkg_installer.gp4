@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="gp4" version="1000">
+	<volume>
+		<volume_type>pkg_ps4_app</volume_type>
+		<volume_id>PS4VOLUME</volume_id>
+		<volume_ts>2018-10-12 00:00:00</volume_ts>
+		<package content_id="UP9000-FLTZ00003_00-REMOTEPKGINSTALL" passcode="00000000000000000000000000000000" c_date="2018-10-12" storage_type="bd25" app_type="full"/>
+		<chunk_info chunk_count="1" scenario_count="1">
+			<chunks>
+				<chunk id="0" layer_no="0" label="Chunk #0"/>
+			</chunks>
+			<scenarios default_id="0">
+				<scenario id="0" type="sp" initial_chunk_count="1" label="Scenario #0">0</scenario>
+			</scenarios>
+		</chunk_info>
+	</volume>
+	<files img_no="0">
+		<file targ_path="sce_sys/param.sfo" orig_path="build\param.sfo"/>
+		<file targ_path="sce_sys/pronunciation.xml" orig_path="sce_sys\pronunciation.xml"/>
+		<file targ_path="sce_sys/pronunciation.sig" orig_path="sce_sys\pronunciation.sig"/>
+		<file targ_path="sce_sys/icon0.png" orig_path="sce_sys\icon0.png"/>
+		<file targ_path="sce_sys/pic0.png" orig_path="sce_sys\pic0.png"/>
+		<file targ_path="sce_sys/pic1.png" orig_path="sce_sys\pic1.png"/>
+		<file targ_path="eboot.bin" orig_path="build\remote_pkg_installer.self"/>
+	</files>
+	<rootdir>
+		<dir targ_name="sce_sys"/>
+	</rootdir>
+</psproject>

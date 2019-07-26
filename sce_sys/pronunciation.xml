@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">Payload Loader</text>
+      <pronunciation>p ey l ow d ___ l ow d er</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">Payload Loader</text>
+      <pronunciation>p ey l ow d ___ l ao d ax r</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

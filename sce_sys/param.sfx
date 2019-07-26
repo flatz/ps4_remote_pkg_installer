@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo>
+	<param key="APP_TYPE">0</param>
+	<param key="APP_VER">01.00</param>
+	<param key="ATTRIBUTE">18</param>
+	<param key="CATEGORY">gde</param>
+	<param key="CONTENT_ID">UP9000-FLTZ00003_00-REMOTEPKGINSTALL</param>
+	<param key="DOWNLOAD_DATA_SIZE">0</param>
+	<param key="FORMAT">obs</param>
+	<param key="PARENTAL_LEVEL">1</param>
+	<param key="SYSTEM_VER">1020</param>
+	<param key="TITLE">Remote PKG installer</param>
+	<param key="TITLE_ID">FLTZ00003</param>
+	<param key="VERSION">01.00</param>
+</paramsfo>
