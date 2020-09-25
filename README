@@ -80,6 +80,8 @@ Unregistering (removing) task:
 
 Getting task progress information:
   curl -v 'http://<PS4 IP>:12800/api/get_task_progress' --data '{"task_id":123}'
+  
+OBS: Avoid doing so many requests, try using every 4000ms+
 
 Finding task id by content id and sub type:
   curl -v 'http://<PS4 IP>:12800/api/find_task' --data '{"content_id":"UP1004-CUSA03041_00-REDEMPTION000002","sub_type":6}'
